@@ -1,4 +1,4 @@
-# React_Native_Assignment
+# * React_Native_Assignment *
 
 # This is a react native app which takes input as First name, Last name 
 # age, Date of birth, Occupation, Company name and returns all the details 
