@@ -7,7 +7,7 @@
   1. I have imported react-native-datepicker attribute to calculate age from 
      Date of Birth input type.
      
-  2. react-navigators have also been imported to navigate and pass paramers
+  2. react-navigators have also been imported to navigate and pass parameters
      between screens.
      
   3. getParams function has been used for parsing paramters.
