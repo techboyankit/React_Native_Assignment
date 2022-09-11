@@ -6,11 +6,11 @@ export default class HomeScreen extends React.Component {
     constructor(props) {  
         super(props);  
         this.state = {  
-            first_name: '',  
-            last_name: '',  
-            company_name: '',  
-            occupation: '',  
-            DOB: '',  
+            first_name: ' ',  
+            last_name: ' ',  
+            company_name: ' ',  
+            occupation: ' ',  
+            DOB: ' ',  
         };  
     }  
     static navigationOptions = {  
