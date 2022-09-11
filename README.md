@@ -11,3 +11,6 @@
      between screens.
      
   3. getParams function has been used for parsing paramters.
+  
+  4. I have taken five parameters - first_name, last_name, DOB, occupation 
+     and company_name for taking user input.
