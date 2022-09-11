@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "818206514855",
+      "project_id": "react-native-assignment-fcd5f",
+      "storage_bucket": "react-native-assignment-fcd5f.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:818206514855:android:96c981a993b9fa732f0582",
+          "android_client_info": {
+            "package_name": "com.assignment"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "818206514855-p45326bqnav36uql1v7g1bdefv8m6q28.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDuiEiXUSIWFQ_jRjkvgLC1hDXYYY0tX3M"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "818206514855-p45326bqnav36uql1v7g1bdefv8m6q28.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
