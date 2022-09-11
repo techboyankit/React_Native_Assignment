@@ -25,11 +25,11 @@ export default class ProfileScreen extends React.Component {
                 <Text style={{ marginTop: 16,fontSize: 20,}}>  
                     This is Profile Screen and we receive value from Home Screen  
                 </Text>  
-                <Text style={styles.textStyle}>First Name: {JSON.stringify(first_name)}</Text>  
-                <Text style={styles.textStyle}>Last Name: {JSON.stringify(last_name)}</Text>  
-                <Text style={styles.textStyle}>Company Name: {JSON.stringify(company_name)}</Text>  
-                <Text style={styles.textStyle}>Occupation: {JSON.stringify(occupation)}</Text>  
-                <Text style={styles.textStyle}>Date Of Birth: {JSON.stringify(DOB)}</Text>  
+                <Text style={styles.textStyle}>{JSON.stringify(first_name)} + " " +
+                {JSON.stringify(last_name)} + " is" + 
+                {JSON.stringify(DOB)} + " years old and working as a" +
+                {JSON.stringify(occupation)}+" in "+
+                {JSON.stringify(company_name)}+"."</Text>
                 <Text style={styles.textStyle}>Other Param: {JSON.stringify(other_param)}</Text>  
                 <View style={styles.buttonStyle}>  
                 <Button  
